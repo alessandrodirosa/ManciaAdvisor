@@ -2,10 +2,10 @@
     <string name="app_name">Mancia Advisor</string>
     <string name="money_paid_hint">Inserisci quanto pagato</string>
     <string name="question_rate_text">Com\'era il servizio?</string>
-    <string name="amazing_20">Eccezionale (20%)</string>
-    <string name="good_18">Buono (18%)</string>
-    <string name="ok_15">OK (15%)</string>
+    <string name="amazing_20">Eccezionale (10%)</string>
+    <string name="good_18">Buono (8%)</string>
+    <string name="ok_15">OK (5%)</string>
     <string name="arrotondare_tip">Arrotondare?</string>
     <string name="calcola_buttton_label">Calcola</string>
-    <string name="risultato_string">Dovresti dare: %s</string>
+    <string name="risultato_string">Lascia %s di mancia</string>
 </resources>
